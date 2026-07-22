@@ -7,6 +7,9 @@ future spend using a statistical trend model.
 
 **Live dashboard:** _https://public.tableau.com/app/profile/renusri.periketi4831/viz/NYCBudgetvsForecast2020-2027/NYCBudgetVarianceForecastDashboard_
 
+<img width="1239" height="730" alt="Screenshot 2026-07-22 at 3 37 46 PM" src="https://github.com/user-attachments/assets/d6a06210-d73b-484e-84b4-82240012d196" />
+
+
 <img width="1239" height="730" alt="Screenshot 2026-07-22 at 3 36 24 PM" src="https://github.com/user-attachments/assets/2757778c-f615-4a35-bcff-4c0a769607b3" />
 
 ---
