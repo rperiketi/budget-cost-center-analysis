@@ -1,5 +1,5 @@
 
-# NYC Budget Variance & Forecast Dashboard
+# NYC Budget Variance & Forecast Dashboard - Python, SQL, Tableau
 
 A full SQL + Python + Tableau pipeline that tracks budget vs. actual spending
 across NYC government agencies, flags at-risk departments, and forecasts
